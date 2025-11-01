@@ -1,0 +1,26 @@
+{
+    "expenses": [
+        {
+            "amount": 850.0,
+            "category": "Rent",
+            "date": "2025-10-21",
+            "tag": ""
+        },
+        {
+            "amount": 250.0,
+            "category": "Movie",
+            "date": "2025-10-21",
+            "tag": ""
+        }
+    ],
+    "budgets": {
+        "Rent": 5000.0
+    },
+    "incomes": [
+        {
+            "amount": 100000.0,
+            "source": "Diwali bonus",
+            "date": "2025-10-21"
+        }
+    ]
+}
